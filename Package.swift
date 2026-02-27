@@ -16,22 +16,22 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "ApxorSDK",
-            url: "https://repo.apxor.com/artifactory/libs-release-ios/core/21045/ApxoriOSSDK-Core-21045.zip",
-            checksum: "f39a72f11263658d5c450c807826a3df43e8bb08683e97ff47481f70190d34b9"
+            url: "https://repo.apxor.com/artifactory/libs-release-ios/core/21046/ApxoriOSSDK-Core-21046.zip",
+            checksum: "9d603acb6ff0d892cb8ed355ca4af4d77a79e8dfe85814a9abaf68e1a5106886"
         ),
         .binaryTarget(
             name: "APXContextEvaluator",
-            url: "https://repo.apxor.com/artifactory/libs-release-ios/ce/10531/ApxoriOSSDK-CE-10531.zip",
-            checksum: "4a465a502088478e26e248df71808a5657363b8a60b6cec69d335854f72d7f76"
+            url: "https://repo.apxor.com/artifactory/libs-release-ios/ce/10532/ApxoriOSSDK-CE-10532.zip",
+            checksum: "b4af797fcd6651311b3994994ad3e8203bf66e6a336df15f6a8c4b75c8df5d88"
         ),
         .binaryTarget(
             name: "APXRTAPlugin",
-            url: "https://repo.apxor.com/artifactory/libs-release-ios/rta/10950/ApxoriOSSDK-RTA-10950.zip",
-            checksum: "56947509a88b39ab553225fa9b935cbeba904de4ab56e18366a8a261206ea14e"
+            url: "https://repo.apxor.com/artifactory/libs-release-ios/rta/10951/ApxoriOSSDK-RTA-10951.zip",
+            checksum: "baaff74fc3443cd2210e45f535e3869f118a32c5f8ab843bb6dc070fe682a689"
         ),
         .binaryTarget(name: "APXWYSIWYGPlugin",
-            url: "https://repo.apxor.com/artifactory/libs-release-ios/wysiwyg/10275/ApxoriOSSDK-WYSIWYG-10275.zip",
-            checksum: "b16bee6d93c750e586b3b999a8afd4e7b4786e4d94374fd728e41ac0b1ff09d7"
+            url: "https://repo.apxor.com/artifactory/libs-release-ios/wysiwyg/10276/ApxoriOSSDK-WYSIWYG-10276.zip",
+            checksum: "3643d7718908da4f488edfc8391bd7b204c02cda2706e0c9b1b010d33ee82712"
         ),
         .binaryTarget(name: "APXSurveyPlugin",
             url: "https://repo.apxor.com/artifactory/libs-release-ios/survey/10424/ApxoriOSSDK-Survey-10424.zip",
