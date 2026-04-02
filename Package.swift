@@ -21,8 +21,8 @@ let package = Package(
         ),
         .binaryTarget(
             name: "APXContextEvaluator",
-            url: "https://repo.apxor.com/artifactory/libs-release-ios/ce/10532/ApxoriOSSDK-CE-10532.zip",
-            checksum: "b4af797fcd6651311b3994994ad3e8203bf66e6a336df15f6a8c4b75c8df5d88"
+            url: "https://repo.apxor.com/artifactory/libs-release-ios/ce/10533/ApxoriOSSDK-CE-10533.zip",
+            checksum: "567046b8e95110e5544e765ff1eb2abd6510cfc09a7d3393435c7cccb98db83a"
         ),
         .binaryTarget(
             name: "APXRTAPlugin",
