@@ -26,8 +26,8 @@ let package = Package(
         ),
         .binaryTarget(
             name: "APXRTAPlugin",
-            url: "https://repo.apxor.com/artifactory/libs-release-ios/rta/10953/ApxoriOSSDK-RTA-10953.zip",
-            checksum: "e2859fbbbe8effe39aa2daf9095fa793c930012ec44c0874e2a9fe85991269b2"
+            url: "https://repo.apxor.com/artifactory/libs-release-ios/rta/10954/ApxoriOSSDK-RTA-10954.zip",
+            checksum: "4bb4b7a23108a8cb3582fc8c0efc5a14ac201c82366fa47ed1bccbb7c49bad48"
         ),
         .binaryTarget(name: "APXWYSIWYGPlugin",
             url: "https://repo.apxor.com/artifactory/libs-release-ios/wysiwyg/10276/ApxoriOSSDK-WYSIWYG-10276.zip",
