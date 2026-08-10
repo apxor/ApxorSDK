@@ -34,8 +34,8 @@ let package = Package(
             checksum: "3643d7718908da4f488edfc8391bd7b204c02cda2706e0c9b1b010d33ee82712"
         ),
         .binaryTarget(name: "APXSurveyPlugin",
-            url: "https://repo.apxor.com/artifactory/libs-release-ios/survey/10424/ApxoriOSSDK-Survey-10424.zip",
-            checksum: "83d0caf7ca9d13d9378a448c425c84659ff506d222d3726cd1956a1991e400be"
+            url: "https://repo.apxor.com/artifactory/libs-release-ios/survey/10425/ApxoriOSSDK-Survey-10425.zip",
+            checksum: "7d8e0ef6884b99fa27626184a4091eeb4bf0057675d430b6531736a0e990c62d"
         )
     ]
 )
