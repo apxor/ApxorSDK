@@ -16,8 +16,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "ApxorSDK",
-            url: "https://repo.apxor.com/artifactory/libs-release-ios/core/21046/ApxoriOSSDK-Core-21046.zip",
-            checksum: "9d603acb6ff0d892cb8ed355ca4af4d77a79e8dfe85814a9abaf68e1a5106886"
+            url: "https://repo.apxor.com/artifactory/libs-release-ios/core/21047/ApxoriOSSDK-Core-21047.zip",
+            checksum: "f4b0b0aa68860e82019da9a255a73d3f1449db897a67a67b60048b6105cd8b77"
         ),
         .binaryTarget(
             name: "APXContextEvaluator",
